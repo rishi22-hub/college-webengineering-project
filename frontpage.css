@@ -1,0 +1,53 @@
+body{
+    background-color: cadetblue;
+    background-image: url("https://th.bing.com/th/id/OIP.MggAour6ODYJG64I1_yyKQHaE8?pid=ImgDet&rs=1");
+    background-repeat: no-repeat;
+   opacity: 0.7;
+    background-size: 1300px 700px;
+}   
+a{
+    color: white;
+}
+#decor{
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 400px;
+
+}
+form{
+  margin-left: 500px;
+  margin-top: 100px;
+  margin-right: 500px;
+  padding-left: 10px;
+  background-color:black;
+  background-size: 10px 100px 10px 100px;
+}
+#header{
+    margin-top: -10px;
+    margin-left: -10px;
+   
+    
+    width: 110%;
+    height: 50px;
+    float:left;
+   display: inline;
+    
+    
+    font-size: smaller;
+    color:white;
+    background-color: black;
+}
+#moveleft{
+   
+    display: inline;
+  
+    margin-right: 440px;
+    
+}
+
+#moveright{
+   
+    display: inline;
+    margin-right: 10px;
+   
+}
